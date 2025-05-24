@@ -1,2 +1,3 @@
 # ml_studies
-repository for modeling from scratch - or not - some models. The purpose is to get a better understand on them.
+Repository for implementing machine learning models from scratch (or partially from scratch).
+The main goal is to gain a deeper understanding of how these models work under the hood.
